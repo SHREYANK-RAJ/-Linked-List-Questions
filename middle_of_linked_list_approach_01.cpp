@@ -1,5 +1,4 @@
 // this is approach 1
-
 int getLength(Node* head) {
     int count = 0;
     while (head != NULL) {
